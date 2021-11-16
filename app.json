@@ -1,11 +1,4 @@
 {
-  "expo": {
-    "name": "eContractRh",
-    "slug": "eContractRh",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "eContractRh"
+  "name": "eContractRh",
+  "displayName": "eContractRh"
 }
